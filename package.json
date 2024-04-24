@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "2.0.0",
+  "description": "A Discord bot with global ban functionality.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Reaper Global Ban",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^0.6.0",
+    "discord-api-types": "^0.37.76",
+    "discord.js": "^13.6.0"
+  }
+}
