@@ -1,14 +1,20 @@
-Global Ban Bot by System32x64
-Overview
+# Global Ban Bot by System32x64
+
+## Overview
 This Discord bot allows for global banning and unbanning of users across multiple servers, along with other moderation functionalities.
 
-Installation
-Clone this repository to your local machine.
-Install the required dependencies using npm install.
-Set up your bot token and other configurations in bot.js.
-Run the bot using node bot.js.
+## Prerequisites
+Before running this bot, ensure you have the following installed:
+- **[Node.js](https://nodejs.org)** (version 14.x or higher)
+- **[npm](https://www.npmjs.com/)** (Node Package Manager, usually comes with Node.js)
 
-Commands
+## Installation
+1. Clone this repository to your local machine using Git:
+   ```bash
+   git clone https://github.com/your-username/global-ban-bot.git
+
+
+***Commands
 gban: Globally ban a user.
 ungban: Unban a globally banned user.
 setlogs: Set the log channel for global bans and unbans.
@@ -27,4 +33,4 @@ Modification and Redistribution: Users cannot modify or redistribute the bot wit
 Compliance: Users must follow Discord's guidelines, Terms of Service, and applicable laws while using the bot.
 Changes to ToS: The creator may update these terms. Users will be notified of significant changes.
 Contact
-For support or inquiries, contact System32x64 on Discord.
+For support or inquiries, contact System32x64 on Discord.***
