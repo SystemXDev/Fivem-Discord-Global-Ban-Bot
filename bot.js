@@ -19,7 +19,7 @@ const config = {
     permissionRole: null,
     logChannel: null,
     appealLogChannel: "APPEALLOG CHANNEL HERE",
-    allowedGuilds: ["MAIN GUILDID HERE", "BSCO GUILD ID HERE ", "SAST GUILD ID HERE", "ADD MORE HERE"] // add the guild ids of the servers that the Gban and Ungan..
+    allowedGuilds: ["MAIN GUILDID HERE", "BSCO GUILD ID HERE ", "SAST GUILD ID HERE", "ADD MORE HERE"] // add the guild ids of the servers that will Global Ban And Unglobal From so when you put ids here it will ban the user form all the server id's in this list
 };
 
 
